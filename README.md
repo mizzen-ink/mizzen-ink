@@ -32,9 +32,9 @@
 
 ```text
 ┌───────────────────────────────────────────────────┐
-│ 🏫 School:  西安财经大学 (Xi'an University of Finance and Economics) │
-│ 🎓 Major:   Computer Science and Technology       │
-│ 🌍 City:    Xi'an, Shaanxi                         │
-│ 🚀 Interests: C++ / System / Open Source / Backend │
-│ 📧 Email:   2716065616@qq.com                      │
+│ 🎓 Major:   Computer Science and Technology      │
+│ 🌍 City:    Xi'an, Shaanxi                       │
+│ 🚀 Interests: C++ / System / Open Source / Backend│
+│ 📧 Email:   2716065616@qq.com                    │
 └───────────────────────────────────────────────────┘
+
